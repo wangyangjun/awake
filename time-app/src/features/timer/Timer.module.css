@@ -1,0 +1,12 @@
+.timer {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.timer > div {
+  padding: 15px;
+}
+.zone {
+  font-weight: bolder;
+}
